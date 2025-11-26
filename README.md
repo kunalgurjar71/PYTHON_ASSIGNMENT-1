@@ -26,3 +26,20 @@ This project is created as part of **BCA 1st Semester — Problem Solving with P
 ---
 
 ## 📂 File Structure
+📁 bca_python_assignment1
+├── student_profile.py
+├── student_profile.txt (auto-generated only if user chooses to save)
+└── Screenshots (installation & output)
+
+---
+
+## ▶️ How to Run the Program
+1. Install Python 3.x  
+2. Download or clone this repository:
+   ```bash
+   git clone https://github.com/<your-github-username>/bca_python_assignment1.git
+
+---
+
+cd bca_python_assignment1
+
